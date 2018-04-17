@@ -1,4 +1,4 @@
-# react-native-calcultor
+# react-native-calculator
 
 ## CLI Commands
 
